@@ -1,0 +1,8 @@
+﻿  Clustering.cpp
+  KMansProje.cpp
+  KMeans.cpp
+C:\Users\Ali Batuhan\source\repos\KMansProje\KMansProje\KMeans.cpp(83,14): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  Node.cpp
+C:\Users\Ali Batuhan\source\repos\KMansProje\KMansProje\Node.cpp(18,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+  Kod Üretiliyor...
+  KMansProje.vcxproj -> C:\Users\Ali Batuhan\source\repos\KMansProje\Debug\KMansProje.exe

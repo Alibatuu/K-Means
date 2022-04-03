@@ -1,0 +1,92 @@
+﻿  Clustering.cpp
+D:\OGU DERSLER\4.sınıf\Object Oriented Programming\Project\151220174007_AliBatuhanÖztürk_151248619\KMansProje\KMansProje\Clustering.cpp(193,22): warning C4267: 'return': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+  Edge.cpp
+  Graph.cpp
+D:\OGU DERSLER\4.sınıf\Object Oriented Programming\Project\151220174007_AliBatuhanÖztürk_151248619\KMansProje\KMansProje\Graph.cpp(43,98): warning C4244: 'bağımsız değişken': 'double' - 'int' dönüşümü; veri kaybı olabilir
+D:\OGU DERSLER\4.sınıf\Object Oriented Programming\Project\151220174007_AliBatuhanÖztürk_151248619\KMansProje\KMansProje\Graph.cpp(44,100): warning C4244: 'bağımsız değişken': 'double' - 'int' dönüşümü; veri kaybı olabilir
+D:\OGU DERSLER\4.sınıf\Object Oriented Programming\Project\151220174007_AliBatuhanÖztürk_151248619\KMansProje\KMansProje\Graph.cpp(67,71): warning C4244: 'bağımsız değişken': 'double' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=int
+          ]
+D:\OGU DERSLER\4.sınıf\Object Oriented Programming\Project\151220174007_AliBatuhanÖztürk_151248619\KMansProje\KMansProje\Graph.cpp(67,60): warning C4244: 'bağımsız değişken': 'double' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=int
+          ]
+D:\OGU DERSLER\4.sınıf\Object Oriented Programming\Project\151220174007_AliBatuhanÖztürk_151248619\KMansProje\KMansProje\Graph.cpp(68,135): warning C4244: 'bağımsız değişken': 'double' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=int
+          ]
+D:\OGU DERSLER\4.sınıf\Object Oriented Programming\Project\151220174007_AliBatuhanÖztürk_151248619\KMansProje\KMansProje\Graph.cpp(68,79): warning C4244: 'bağımsız değişken': 'double' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=int
+          ]
+D:\OGU DERSLER\4.sınıf\Object Oriented Programming\Project\151220174007_AliBatuhanÖztürk_151248619\KMansProje\KMansProje\Graph.cpp(72,71): warning C4244: 'bağımsız değişken': 'double' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=int
+          ]
+D:\OGU DERSLER\4.sınıf\Object Oriented Programming\Project\151220174007_AliBatuhanÖztürk_151248619\KMansProje\KMansProje\Graph.cpp(72,60): warning C4244: 'bağımsız değişken': 'double' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=int
+          ]
+D:\OGU DERSLER\4.sınıf\Object Oriented Programming\Project\151220174007_AliBatuhanÖztürk_151248619\KMansProje\KMansProje\Graph.cpp(73,135): warning C4244: 'bağımsız değişken': 'double' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=int
+          ]
+D:\OGU DERSLER\4.sınıf\Object Oriented Programming\Project\151220174007_AliBatuhanÖztürk_151248619\KMansProje\KMansProje\Graph.cpp(73,79): warning C4244: 'bağımsız değişken': 'double' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=int
+          ]
+D:\OGU DERSLER\4.sınıf\Object Oriented Programming\Project\151220174007_AliBatuhanÖztürk_151248619\KMansProje\KMansProje\Graph.cpp(77,71): warning C4244: 'bağımsız değişken': 'double' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=int
+          ]
+D:\OGU DERSLER\4.sınıf\Object Oriented Programming\Project\151220174007_AliBatuhanÖztürk_151248619\KMansProje\KMansProje\Graph.cpp(77,60): warning C4244: 'bağımsız değişken': 'double' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=int
+          ]
+D:\OGU DERSLER\4.sınıf\Object Oriented Programming\Project\151220174007_AliBatuhanÖztürk_151248619\KMansProje\KMansProje\Graph.cpp(78,135): warning C4244: 'bağımsız değişken': 'double' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=int
+          ]
+D:\OGU DERSLER\4.sınıf\Object Oriented Programming\Project\151220174007_AliBatuhanÖztürk_151248619\KMansProje\KMansProje\Graph.cpp(78,79): warning C4244: 'bağımsız değişken': 'double' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=int
+          ]
+D:\OGU DERSLER\4.sınıf\Object Oriented Programming\Project\151220174007_AliBatuhanÖztürk_151248619\KMansProje\KMansProje\Graph.cpp(82,71): warning C4244: 'bağımsız değişken': 'double' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=int
+          ]
+D:\OGU DERSLER\4.sınıf\Object Oriented Programming\Project\151220174007_AliBatuhanÖztürk_151248619\KMansProje\KMansProje\Graph.cpp(82,60): warning C4244: 'bağımsız değişken': 'double' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=int
+          ]
+D:\OGU DERSLER\4.sınıf\Object Oriented Programming\Project\151220174007_AliBatuhanÖztürk_151248619\KMansProje\KMansProje\Graph.cpp(83,135): warning C4244: 'bağımsız değişken': 'double' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=int
+          ]
+D:\OGU DERSLER\4.sınıf\Object Oriented Programming\Project\151220174007_AliBatuhanÖztürk_151248619\KMansProje\KMansProje\Graph.cpp(83,79): warning C4244: 'bağımsız değişken': 'double' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=int
+          ]
+  KMansProje.cpp
+  KMeans.cpp
+D:\OGU DERSLER\4.sınıf\Object Oriented Programming\Project\151220174007_AliBatuhanÖztürk_151248619\KMansProje\KMansProje\KMeans.cpp(71,14): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  Node.cpp
+  Kod Üretiliyor...
+  KMansProje.vcxproj -> D:\OGU DERSLER\4.sınıf\Object Oriented Programming\Project\151220174007_AliBatuhanÖztürk_151248619\KMansProje\x64\Debug\KMansProje.exe
